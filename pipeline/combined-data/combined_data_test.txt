@@ -1,0 +1,1 @@
+s3://codeocean-public-data/genomes/saccharomyces_genome
